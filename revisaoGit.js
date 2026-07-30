@@ -6,7 +6,7 @@ let equipe = [
         idade: 17
     },
     {
-        nome: "Yago",
+        nome: "Yaga",
         cargo: "Designer",
         idade: 16
     }
